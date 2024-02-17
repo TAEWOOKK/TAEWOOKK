@@ -1,5 +1,7 @@
 # Introduce
 
+![TAEWOOKK's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAEWOOKK&show_icons=true&theme=radical)
+
 # 💪Skills
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
