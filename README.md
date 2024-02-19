@@ -3,6 +3,7 @@
 # Introduce
 
 ![TAEWOOKK's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAEWOOKK&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TAEWOOKK&layout=compact&theme=calm" width=40% />
 
 # 💪Skills
 ### Backend
