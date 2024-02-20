@@ -32,9 +32,11 @@
 
 ### Environment
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
 ![amazonroute53](https://img.shields.io/badge/amazon%20route%2053-8C4FFF.svg?&style=for-the-badge&logo=amazonroute53&logoColor=white)
 ![amazonrds](https://img.shields.io/badge/amazon%20rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
+
 
 
 
